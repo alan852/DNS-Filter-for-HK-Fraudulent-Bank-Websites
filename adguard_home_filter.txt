@@ -5,7 +5,7 @@
 !
 ! Remarks: 1. This list contains the domains of faudulent websites only. 
 !          2. This list does not contains the domains hosting fraudulent app package.
-!          3. If you consider to block the domains mentioned in point 2. Please also inclube another filter named "adguard_home_filter_extra.txt" in this repository.
+!          3. If you consider to block the domains mentioned in point 2. Please also include another filter named "adguard_home_filter_extra.txt" in this repository.
 !
 ! Source name: Hong Kong Monetary Authority - Beware of Fraudsters!
 ! Source: https://www.hkma.gov.hk/eng/smart-consumers/beware-of-fraudsters/
