@@ -18,6 +18,7 @@
 ||080088.com.cn^
 ||103.30.40.145^
 ||103.96.74.78^
+||104.42.122.73^
 ||180.215.194.185^
 ||185.180.198.152^
 ||190.14.38.23:8443^
@@ -71,14 +72,14 @@
 ||bali0088.com^
 ||bali0099.com^
 ||bankingsingapore.ru^
-||Bankinsingapore.ru^
+||bankinsingapore.ru^
 ||bankofchina100.com^
 ||bankofchinagroup.com^
 ||bankofsiiingapore.ru^
 ||bankofsingapore.ru^
 ||bank-ofsingapores.com^
 ||bankofsingpore.com^
-||Banksingapore.org^
+||banksingapore.org^
 ||banksingapore.ru^
 ||banksofsingapore.com^
 ||baofengins-hk.com^
@@ -177,8 +178,10 @@
 ||citiccnb.online^
 ||citichina.org^
 ||citicprivate.online^
+||citics.in^
 ||cmbwinglunbk.com^
 ||cncbinternatiional.com^
+||cncbinternational.org^
 ||cncbinternational.tk^
 ||cncbintl.pw^
 ||cncbintonnet.com^
@@ -212,6 +215,7 @@
 ||deathstars.pw^
 ||debiasi.it^
 ||declarationsupply.com^
+||declarationsupply.com^
 ||dergalvanet.tk^
 ||digitalbadger.org^
 ||dragonwebdeveloper.com^
@@ -244,9 +248,11 @@
 ||fuboncbank.com^
 ||fusionbankhk.com^
 ||getamoveonstudio.com^
+||getamoveonstudio.com^
 ||gongyin111.com^
 ||greasyspoon.info^
 ||groupetqh.tk^
+||guiminer.co.technology^
 ||guiminer.co.technology^
 ||h.s_gsa.bc_1o82hiwefo9o.uniqueid.12.aoiub2-black-elite.upgrade-form.services^
 ||hangsb.com^
@@ -264,6 +270,7 @@
 ||hbea-uk.com^
 ||heartbeatuniforms.in^
 ||hengsz888.com^
+||hkawes.com^
 ||hkawes.com^
 ||hkbankcomm.com^
 ||hkbea.nresident.com^
@@ -283,7 +290,9 @@
 ||hkqoow.com^
 ||hkretail-sebank.com^
 ||hksoxo.com^
+||hksoxo.com^
 ||hktbea.com^
+||hkxxwe.com^
 ||hkxxwe.com^
 ||hkxxwo.com^
 ||hlbonice.com^
@@ -302,7 +311,7 @@
 ||hsbc-login.com^
 ||hsbc-onlinelogin.com^
 ||hsbcpayee-hk.com^
-||HSBC-PRINCIPAL.COM^
+||hsbc-principal.com^
 ||hsbnk.com^
 ||hsbnk.online^
 ||hsbonline-hk.co^
@@ -353,10 +362,14 @@
 ||malaiyajinrong.com^
 ||malaysiaamazuu.com^
 ||malaysiamam.com^
+||malaysiamam.com^
+||malaysiamao.com^
 ||malaysiamao.com^
 ||malaysiamax.com^
 ||malaysiamay.com^
+||malaysiamay.com^
 ||malaysiamaza.com^
+||malaysiamazuu.com^
 ||malaysiamazz.com^
 ||markkorea.kr^
 ||mirindas.info^
@@ -464,6 +477,7 @@
 ||ubpinvestment.org^
 ||ubpsingapore.com^
 ||ufkwebtek.com^
+||ufkwebtek.com^
 ||unitedbea.com^
 ||unreadablepage.at^
 ||uobclub.com^
@@ -494,8 +508,6 @@
 ||winlungbank.com^
 ||winwinwin168168.com^
 ||wrttjok.cn^
-||www.citics.in^
-||www.cncbinternational.org^
 ||wwwhkbea.com^
 ||www-livibank-com.bhmmyx.cn^
 ||www-livibank-com.cnyingke.cn^
