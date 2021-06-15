@@ -11,6 +11,20 @@
 ! Source: https://www.hkma.gov.hk/eng/smart-consumers/beware-of-fraudsters/
 !
 !
+||remove-device-host.com^
+||device-host.com^
+||is.gd^
+||hsbc.secure-manageactivity.com^
+||authentication-link.com^
+||authorise-link-support.com^
+||authorise-support-link.com^
+||remove-beneficiary-link.com^
+||authentication-host.com^
+||secure-device-host.com^
+||hk-secure.com^
+||hk-secure.com^
+||authorise-link.com^
+||authenticate-link.com^
 ||050055.com.cn^
 ||060066.com.cn^
 ||070077.com.cn^
