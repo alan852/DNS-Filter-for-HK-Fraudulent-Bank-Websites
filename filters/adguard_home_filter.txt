@@ -22,7 +22,6 @@
 ||authentication-host.com^
 ||secure-device-host.com^
 ||hk-secure.com^
-||hk-secure.com^
 ||authorise-link.com^
 ||authenticate-link.com^
 ||050055.com.cn^
