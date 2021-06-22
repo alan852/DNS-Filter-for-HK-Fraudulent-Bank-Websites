@@ -11,6 +11,12 @@
 ! Source: https://www.hkma.gov.hk/eng/smart-consumers/beware-of-fraudsters/
 !
 !
+||chbk-ltd.com^
+||secure-boc-cn.com^
+||hknet-support.com^
+||secure-systemsupport.com^
+||boc-hk-secure.com^
+||hangseng-online.com^
 ||secure-new-host.com^
 ||secure-hosting-link.com^
 ||e-jetso.hk^
