@@ -11,6 +11,9 @@
 ! Source: https://www.hkma.gov.hk/eng/smart-consumers/beware-of-fraudsters/
 !
 !
+||sc-chart-secure.com^
+||sc.chat-sesure.host.com^
+||sc-secure-hk.com^
 ||hs-securing-host.com^
 ||standard-chartered-signin.com.hk^
 ||sc-secure-host.com^
