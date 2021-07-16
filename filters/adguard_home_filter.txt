@@ -11,7 +11,7 @@
 ! Source: https://www.hkma.gov.hk/eng/smart-consumers/beware-of-fraudsters/
 !
 !
-||secure-citi-host.com
+||secure-citi-host.com^
 ||secure-hk-host.com^
 ||https-hangseng.com^
 ||4159559.cc^
