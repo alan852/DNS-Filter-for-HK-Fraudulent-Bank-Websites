@@ -11,6 +11,8 @@
 ! Source: https://www.hkma.gov.hk/eng/smart-consumers/beware-of-fraudsters/
 !
 !
+||hsbc.transaction-flagged.com^
+||sriluxa.com^
 ||bonifacioinsurance.com.ph^
 ||pdcmgwarimpa.org^
 ||secure-dbs.com^
