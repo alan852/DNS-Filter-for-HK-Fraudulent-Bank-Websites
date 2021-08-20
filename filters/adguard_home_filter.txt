@@ -13,7 +13,7 @@
 !
 ||dbs.onyourmarkstudio.com^
 ||hsbc.support-failure.com^
-||www.publicblhk.com^
+||publicblhk.com^
 ||hsbc.transaction-flagged.com^
 ||sriluxa.com^
 ||bonifacioinsurance.com.ph^
