@@ -10,8 +10,6 @@
 ! Source: https://www.hkma.gov.hk/eng/smart-consumers/beware-of-fraudsters/
 !
 !
-||apktada.com^
-||allfreeapk.com^
 ||12349.net^
 ||123apkdescargar.com^
 ||61ahgk.com^
@@ -19,7 +17,9 @@
 ||9apps.com^
 ||a2zapk.com^
 ||allapk.info^
+||allfreeapk.com^
 ||andriodapk.com^
+||android-apk.org^
 ||androidapkdescargar.com^
 ||androidapktelecharger.com^
 ||androidappsapk.co^
@@ -61,6 +61,7 @@
 ||appszone.xyz^
 ||bank-of-singapore-digital-services.ar.9apps.com^
 ||bank-of-singapore-digital-services-ios.soft112.com^
+||bea.cn.aptoide.com^
 ||bhrprz.cn^
 ||chiliapk.com^
 ||cr173.com^
@@ -82,6 +83,7 @@
 ||m.downloadatoz.com^
 ||m.grabapk.site^
 ||m.mobogenie.com^
+||matjarapk.com^
 ||memuplay.com^
 ||miniaturebrush.net^
 ||mobile9apk.com^
