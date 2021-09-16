@@ -11,6 +11,11 @@
 ! Source: https://www.hkma.gov.hk/eng/smart-consumers/beware-of-fraudsters/
 !
 !
+||148.66.3.194^
+||148.66.3.195^
+||148.66.3.196^
+||148.66.3.197^
+||148.66.3.198^
 ||050055.com.cn^
 ||060066.com.cn^
 ||070077.com.cn^
