@@ -11,6 +11,7 @@
 ! Source: https://www.hkma.gov.hk/eng/smart-consumers/beware-of-fraudsters/
 !
 !
+||hsbc.primary-remove.com^
 ||148.66.3.194^
 ||148.66.3.195^
 ||148.66.3.196^
