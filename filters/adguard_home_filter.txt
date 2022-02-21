@@ -11,6 +11,9 @@
 ! Source: https://www.hkma.gov.hk/eng/smart-consumers/beware-of-fraudsters/
 !
 !
+||gdtjp.jp^
+||wise-1.biz^
+||kaef.jp^
 ||payme-gift.hong22.net^
 ||lezarck.com^
 ||lx2e.xyz^
