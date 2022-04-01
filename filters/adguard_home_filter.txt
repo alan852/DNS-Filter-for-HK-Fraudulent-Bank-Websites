@@ -11,6 +11,9 @@
 ! Source: https://www.hkma.gov.hk/eng/smart-consumers/beware-of-fraudsters/
 !
 !
+||dbs-conflrm.com^
+||e-sigin.com^
+||blueforest.ch^
 ||hkbea-frozen.com^
 ||ktsindia.co.in^
 ||payme-gift-hkd.toddlerexchange.com^
