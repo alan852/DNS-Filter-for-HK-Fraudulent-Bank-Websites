@@ -11,6 +11,10 @@
 ! Source: https://www.hkma.gov.hk/eng/smart-consumers/beware-of-fraudsters/
 !
 !
+||whitmireac.com^
+||empireofsargon.com^
+||sportsatx.danashaymarketing.com^
+||dbs-verify.me^
 ||dbs-conflrm.com^
 ||e-sigin.com^
 ||blueforest.ch^
